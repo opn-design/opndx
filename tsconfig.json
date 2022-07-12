@@ -3,12 +3,16 @@
   "compilerOptions": {
     "noEmit": true,
     "paths": {
-      "pkg": ["./packages/pkg/src"]
+      "@opnd/core": ["./packages/@opnd/core/src"],
+      "opnd": ["./packages/opnd/src"]
     }
   },
   "references": [
     {
-      "path": "./packages/pkg"
+      "path": "./packages/@opnd/core"
+    },
+    {
+      "path": "./packages/opnd"
     }
   ]
 }

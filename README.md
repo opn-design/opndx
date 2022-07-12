@@ -1,10 +1,10 @@
-# mono-lib-boilerplate
+# @opn-design/opnd
 
-[![GitHub Actions](https://github.com/un-ts/mono-lib-boilerplate/workflows/CI/badge.svg)](https://github.com/un-ts/mono-lib-boilerplate/actions/workflows/ci.yml)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/un-ts/lib-boilerplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/un-ts/lib-boilerplate/context:javascript)
-[![Codecov](https://img.shields.io/codecov/c/gh/un-ts/mono-lib-boilerplate)](https://codecov.io/gh/un-ts/mono-lib-boilerplate)
-[![type-coverage](https://img.shields.io/badge/dynamic/json.svg?label=type-coverage&prefix=%E2%89%A5&suffix=%&query=$.typeCoverage.atLeast&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fun-ts%2Fmono-lib-boilerplate%2Fmain%2Fpackage.json)](https://github.com/plantain-00/type-coverage)
-[![GitHub release](https://img.shields.io/github/release/un-ts/mono-lib-boilerplate)](https://github.com/un-ts/mono-lib-boilerplate/releases)
+[![GitHub Actions](https://github.com/opn-design/opnd/workflows/CI/badge.svg)](https://github.com/opn-design/opnd/actions/workflows/ci.yml)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/opn-design/opnd.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/opn-design/opnd/context:javascript)
+[![Codecov](https://img.shields.io/codecov/c/gh/opn-design/opnd)](https://codecov.io/gh/opn-design/opnd)
+[![type-coverage](https://img.shields.io/badge/dynamic/json.svg?label=type-coverage&prefix=%E2%89%A5&suffix=%&query=$.typeCoverage.atLeast&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fopn-design%2Fopnd%2Fmain%2Fpackage.json)](https://github.com/plantain-00/type-coverage)
+[![GitHub release](https://img.shields.io/github/release/opn-design/opnd)](https://github.com/opn-design/opnd/releases)
 
 [![Conventional Commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
@@ -12,15 +12,16 @@
 [![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![changesets](https://img.shields.io/badge/maintained%20with-changesets-176de3.svg)](https://github.com/atlassian/changesets)
 
-> A simple mono library boilerplate
+> An Open Design System built with ❤️
 
 ## Packages
 
 This repository is a monorepo managed by [changesets][] what means we actually publish several packages to npm from same codebase, including:
 
-| Package                | Description       | Version                                                                                                                                                                                       |
-| ---------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`pkg`](/packages/pkg) | A simple package. | [![npm](https://img.shields.io/npm/v/pkg.svg)](https://www.npmjs.com/package/pkg) [![View changelog](https://img.shields.io/badge/changelog-explore-brightgreen)](https://changelogs.xyz/pkg) |
+| Package                              | Description                         | Version                                                                                                                                                                                                            |
+| ------------------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [`@opnd/core`](/packages/@opnd/core) | Core module of `opnd`               | [![npm](https://img.shields.io/npm/v/@opnd/core.svg)](https://www.npmjs.com/package/@opnd/core) [![View changelog](https://img.shields.io/badge/changelog-explore-brightgreen)](https://changelogs.xyz/@opnd/core) |
+| [`opnd`](/packages/opnd)             | An Open Design System built with ❤️ | [![npm](https://img.shields.io/npm/v/opnd.svg)](https://www.npmjs.com/package/opnd) [![View changelog](https://img.shields.io/badge/changelog-explore-brightgreen)](https://changelogs.xyz/opnd)                   |
 
 ## Sponsors
 

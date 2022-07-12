@@ -1,7 +1,10 @@
 {
   "version": 2,
   "alias": [
-    "mono-lib-boilerplate.vercel.app"
+    "open-design.vercel.app",
+    "opn-design.vercel.app",
+    "opend.vercel.app",
+    "opnd.vercel.app"
   ],
   "github": {
     "silent": true
@@ -17,5 +20,6 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ]
+  ],
+  "trailingSlash": true
 }
