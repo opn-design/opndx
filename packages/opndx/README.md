@@ -1,6 +1,6 @@
-# pkg
+# opndx
 
-A simple package
+An Open Design System built with ❤️
 
 ## TOC <!-- omit in toc -->
 
@@ -18,21 +18,21 @@ A simple package
 
 ```sh
 # pnpm
-pnpm add pkg
+pnpm add opndx
 
 # yarn
-yarn add pkg
+yarn add opndx
 
 # npm
-npm i pkg
+npm i opndx
 ```
 
 ### API
 
-```js
-import echo from 'pkg'
+```jsx
+import { useComputed } from 'opndx'
 
-echo()
+const computed = useComputed({ name: 'Alice' }, [])
 ```
 
 ## Sponsors

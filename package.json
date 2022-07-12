@@ -50,7 +50,7 @@
     "@types/web": "^0.0.69",
     "github-markdown-css": "^5.1.0",
     "jest-environment-jsdom": "^28.1.2",
-    "opnd": "workspace:*",
+    "opndx": "workspace:*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0",

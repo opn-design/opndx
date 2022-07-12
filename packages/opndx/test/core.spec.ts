@@ -1,6 +1,6 @@
 import { renderHook } from '@testing-library/react'
 
-import { useComputed } from 'opnd'
+import { useComputed } from 'opndx'
 
 describe('hooks', () => {
   test('useComputed', () => {

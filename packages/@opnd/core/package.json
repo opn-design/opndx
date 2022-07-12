@@ -2,7 +2,7 @@
   "name": "@opnd/core",
   "version": "0.0.0",
   "type": "module",
-  "description": "Core module of `opnd`",
+  "description": "Core module for `opndx`",
   "repository": "git+https://github.com/opn-design/opnd.git",
   "homepage": "https://github.com/opn-design/opnd/blob/main/packages/@opnd/core",
   "author": "JounQin (https://www.1stG.me) <admin@1stg.me>",

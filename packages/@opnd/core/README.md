@@ -1,6 +1,8 @@
-# pkg
+# @opnd/core
 
-A simple package
+> Core module for `opndx`
+
+You may want to use [`opndx`](../../opndx) directly.
 
 ## TOC <!-- omit in toc -->
 
@@ -18,21 +20,21 @@ A simple package
 
 ```sh
 # pnpm
-pnpm add pkg
+pnpm add @opnd/core
 
 # yarn
-yarn add pkg
+yarn add @opnd/core
 
 # npm
-npm i pkg
+npm i @opnd/core
 ```
 
 ### API
 
 ```js
-import echo from 'pkg'
+import { useComputed } from '@opnd/core'
 
-echo()
+const computed = useComputed({ name: 'Alice' }, [])
 ```
 
 ## Sponsors

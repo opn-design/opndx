@@ -1,10 +1,10 @@
 {
-  "name": "opnd",
+  "name": "opndx",
   "version": "0.0.0",
   "type": "module",
   "description": "An Open Design System built with ❤️",
   "repository": "git+https://github.com/opn-design/opnd.git",
-  "homepage": "https://github.com/opn-design/opnd/blob/main/packages/opnd",
+  "homepage": "https://github.com/opn-design/opnd/blob/main/packages/opndx",
   "author": "JounQin (https://www.1stG.me) <admin@1stg.me>",
   "donate": {
     "recipients": [

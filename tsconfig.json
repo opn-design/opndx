@@ -4,7 +4,7 @@
     "noEmit": true,
     "paths": {
       "@opnd/core": ["./packages/@opnd/core/src"],
-      "opnd": ["./packages/opnd/src"]
+      "opndx": ["./packages/opndx/src"]
     }
   },
   "references": [
@@ -12,7 +12,7 @@
       "path": "./packages/@opnd/core"
     },
     {
-      "path": "./packages/opnd"
+      "path": "./packages/opndx"
     }
   ]
 }

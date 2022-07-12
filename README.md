@@ -20,8 +20,8 @@ This repository is a monorepo managed by [changesets][] what means we actually p
 
 | Package                              | Description                         | Version                                                                                                                                                                                                            |
 | ------------------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [`@opnd/core`](/packages/@opnd/core) | Core module of `opnd`               | [![npm](https://img.shields.io/npm/v/@opnd/core.svg)](https://www.npmjs.com/package/@opnd/core) [![View changelog](https://img.shields.io/badge/changelog-explore-brightgreen)](https://changelogs.xyz/@opnd/core) |
-| [`opnd`](/packages/opnd)             | An Open Design System built with ❤️ | [![npm](https://img.shields.io/npm/v/opnd.svg)](https://www.npmjs.com/package/opnd) [![View changelog](https://img.shields.io/badge/changelog-explore-brightgreen)](https://changelogs.xyz/opnd)                   |
+| [`@opnd/core`](/packages/@opnd/core) | Core module for `opndx`             | [![npm](https://img.shields.io/npm/v/@opnd/core.svg)](https://www.npmjs.com/package/@opnd/core) [![View changelog](https://img.shields.io/badge/changelog-explore-brightgreen)](https://changelogs.xyz/@opnd/core) |
+| [`opndx`](/packages/opndx)           | An Open Design System built with ❤️ | [![npm](https://img.shields.io/npm/v/opndx.svg)](https://www.npmjs.com/package/opndx) [![View changelog](https://img.shields.io/badge/changelog-explore-brightgreen)](https://changelogs.xyz/opndx)                |
 
 ## Sponsors
 

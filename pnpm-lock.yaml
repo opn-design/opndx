@@ -21,7 +21,7 @@ importers:
       '@types/web': ^0.0.69
       github-markdown-css: ^5.1.0
       jest-environment-jsdom: ^28.1.2
-      opnd: workspace:*
+      opndx: workspace:*
       react: ^18.2.0
       react-dom: ^18.2.0
       react-router-dom: ^6.3.0
@@ -47,7 +47,7 @@ importers:
       '@types/web': 0.0.69
       github-markdown-css: 5.1.0
       jest-environment-jsdom: 28.1.2
-      opnd: link:packages/opnd
+      opndx: link:packages/opndx
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
       react-router-dom: 6.3.0_biqbaboplfbrettd7655fr4n2y
@@ -66,7 +66,7 @@ importers:
       '@react-enhanced/hooks': 0.3.2_react@18.2.0+rxjs@7.5.5
       tslib: 2.4.0
 
-  packages/opnd:
+  packages/opndx:
     specifiers:
       '@opnd/core': ^0.0.0
       tslib: ^2.4.0
