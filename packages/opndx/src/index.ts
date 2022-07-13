@@ -1,1 +1,1 @@
-export * from '@opnd/core'
+export * from '@opndx/core'

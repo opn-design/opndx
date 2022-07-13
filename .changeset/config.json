@@ -3,7 +3,7 @@
   "changelog": [
     "@changesets/changelog-github",
     {
-      "repo": "opn-design/opnd"
+      "repo": "opn-design/opndx"
     }
   ],
   "commit": false,

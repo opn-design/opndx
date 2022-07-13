@@ -1,4 +1,4 @@
-# @opnd/core
+# @opndx/core
 
 > Core module for `opndx`
 
@@ -20,19 +20,19 @@ You may want to use [`opndx`](../../opndx) directly.
 
 ```sh
 # pnpm
-pnpm add @opnd/core
+pnpm add @opndx/core
 
 # yarn
-yarn add @opnd/core
+yarn add @opndx/core
 
 # npm
-npm i @opnd/core
+npm i @opndx/core
 ```
 
 ### API
 
 ```js
-import { useComputed } from '@opnd/core'
+import { useComputed } from '@opndx/core'
 
 const computed = useComputed({ name: 'Alice' }, [])
 ```
