@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "type": "module",
   "description": "An Open Design System built with ❤️",
-  "repository": "git+https://github.com/opn-design/opnd.git",
-  "homepage": "https://github.com/opn-design/opnd/blob/main/packages/opndx",
+  "repository": "git+https://github.com/opn-design/opndx.git",
+  "homepage": "https://github.com/opn-design/opndx/blob/main/packages/opndx",
   "author": "JounQin (https://www.1stG.me) <admin@1stg.me>",
   "donate": {
     "recipients": [
@@ -47,7 +47,7 @@
     "lib"
   ],
   "dependencies": {
-    "@opnd/core": "^0.0.0",
+    "@opndx/core": "^0.0.0",
     "tslib": "^2.4.0"
   },
   "publishConfig": {

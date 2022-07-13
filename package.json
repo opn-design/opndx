@@ -1,5 +1,5 @@
 {
-  "name": "@opn-design/opnd",
+  "name": "@opn-design/opndx",
   "version": "0.0.0",
   "type": "module",
   "description": "An Open Design System built with ❤️",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "packages/@opnd/*",
+    "packages/@opndx/*",
     "packages/*"
   ],
   "packageManager": "pnpm@7.5.1",
@@ -108,7 +108,7 @@
   },
   "size-limit": [
     {
-      "path": "packages/@opnd/core/lib/index.js"
+      "path": "packages/@opndx/core/lib/index.js"
     },
     {
       "path": "packages/opnd/lib/index.js"

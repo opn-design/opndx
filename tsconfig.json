@@ -3,13 +3,13 @@
   "compilerOptions": {
     "noEmit": true,
     "paths": {
-      "@opnd/core": ["./packages/@opnd/core/src"],
+      "@opndx/core": ["./packages/@opndx/core/src"],
       "opndx": ["./packages/opndx/src"]
     }
   },
   "references": [
     {
-      "path": "./packages/@opnd/core"
+      "path": "./packages/@opndx/core"
     },
     {
       "path": "./packages/opndx"
