@@ -47,7 +47,7 @@
     "lib"
   ],
   "dependencies": {
-    "@react-enhanced/hooks": "^0.3.2",
+    "@react-enhanced/hooks": "^0.3.4",
     "tslib": "^2.4.0"
   },
   "publishConfig": {
